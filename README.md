@@ -9,5 +9,5 @@
  ##My students' background in IT and English
  This group is on the second module of Senac's System Development Technician Course (Presential format). In their first module they covered requirements gathering, agile methodologies, programming logic, introduction to databases and Java and an English subject that focused on receptive skills. Now, in the second module, they are studying about JavaSwing and Git and GitHub.
  
- >BibiDeBem gave me instructions to code the DivisionCalculator file and >TiagoCassol instructed me into writing the BmiCalculator one.
+ BibiDeBem gave me instructions to code the DivisionCalculator file and TiagoCassol instructed me into writing the BmiCalculator one.
  Both of them used English to comunicate. AND our codes **DO** RUN :)
